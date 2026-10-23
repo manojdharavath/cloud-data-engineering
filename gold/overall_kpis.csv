@@ -1,0 +1,6 @@
+metric,value
+total_appointments,110521.0
+unique_patients,62298.0
+appointments_attended,88207.0
+appointments_missed,22314.0
+no_show_rate_percent,20.19

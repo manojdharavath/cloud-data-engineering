@@ -1,0 +1,5 @@
+metric,value
+input_records,110527
+valid_records,110521
+rejected_records,6
+duplicate_appointment_ids,0
